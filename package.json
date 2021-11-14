@@ -1,0 +1,22 @@
+{
+  "name": "food-dist",
+  "version": "1.0.0",
+  "description": "html-css-js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nekoguard/Food-dist.git"
+  },
+  "author": "Alexandra <nekoguard@protonmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nekoguard/Food-dist/issues"
+  },
+  "homepage": "https://github.com/Nekoguard/Food-dist#readme",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
